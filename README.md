@@ -2,7 +2,7 @@
 
 A simple and lightweight command-line tool to manage your personal tasks using Python and JSON.
 
-## ✅ Features
+## Features
 
 - Add, update, and delete tasks
 - Mark tasks as `todo`, `in-progress`, or `done`
@@ -10,7 +10,7 @@ A simple and lightweight command-line tool to manage your personal tasks using P
 - Data stored locally in `tasks.json`
 - Command-line interface (CLI) with helpful descriptions
 
-## 📦 Setup
+## Setup
 
 1. Clone the repository:
    ```bash
@@ -26,7 +26,7 @@ A simple and lightweight command-line tool to manage your personal tasks using P
 
 3. No extra dependencies are required — just Python 3!
 
-## 🚀 Usage
+## Usage
 
 All commands are executed via `task.py`:
 
@@ -60,7 +60,7 @@ python task.py mark --id 1 --status in-progress
 python task.py delete --id 1
 ```
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 task_tracker_CLI/
