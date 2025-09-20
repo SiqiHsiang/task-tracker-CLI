@@ -1,4 +1,4 @@
-# 📝 Task Tracker CLI
+# Task Tracker CLI
 
 A simple and lightweight command-line tool to manage your personal tasks using Python and JSON.
 
